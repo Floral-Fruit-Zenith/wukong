@@ -1,4 +1,5 @@
 # backend/requirements.txt
-fastapi
-uvicorn
+Flask
 langchain
+requests
+flask-cors
